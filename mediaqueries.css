@@ -101,6 +101,7 @@ font-size: 1.25rem;
     .section__pic-container{
         width: auto;
         height: 46vw;
+        padding-top: 15px;
 justify-content: center;
     }
 
